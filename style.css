@@ -1,0 +1,33 @@
+body {
+font-family: 'Roboto', sans-serif;
+background-color: crimson;
+}
+
+.header_div {
+background-color: cyan;
+}
+
+.header_div p {
+font-family: 'M PLUS 1 Code', sans-serif;
+color: darkgreen;
+letter-spacing: 1px;
+font-size: medium;
+font-weight: bolder;
+}
+
+.main_div button {
+font-family: 'Inter', sans-serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bold;
+letter-spacing: 1px;
+}
+
+.copyright_footer {
+position: fixed;
+color: blue;
+bottom: 0;
+width: 100%;
+font-size: 10px;
+text-align: center;
+}
